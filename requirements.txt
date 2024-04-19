@@ -1,0 +1,4 @@
+flash
+numpy
+pandas
+gunicorn
